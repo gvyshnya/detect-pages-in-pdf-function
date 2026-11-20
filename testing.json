@@ -1,0 +1,5 @@
+{
+	"path": "gs://xyz-pdf-reports/poc/Geschaeftsbericht_2020_e.pdf",
+    "search_phrase": "Income",
+    "max_number_of_pages": "100"
+}
